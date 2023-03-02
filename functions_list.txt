@@ -20,6 +20,14 @@
 - UpperFirst -> Converts the first character of `string` to upper case.
 - trim(string, chars) -> Removes leading and trailing whitespace or specified characters from `string`.
 
+# Array
+- CastToArray
+- ChunkOfArray
+- Clone -> Create a shallow copy
+- CloneDeep
+- Compact -> Creates an array with all falsey values removed. The values `false`, `null`, `0`, `""`, `undefined`, and `NaN` are falsey.
+- Difference
+
 
 
 
