@@ -10,6 +10,10 @@
 - Ceil
 - Roof
 - Floor
+- Round
+- randomNumber
+- Min (2 numbers)
+- Max (2 numbers)
 
 
 
