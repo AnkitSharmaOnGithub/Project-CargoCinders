@@ -22,5 +22,6 @@ const operations: Array<{ 'name': string, operation: any }> = [
 ];
 
 for (const op of operations) {
-    console.log(op);
+    console.log(`The operation name is "${op.name}" & the result is ${op.operation}`);
+    console.log(`------------------------------------------------------------------`);
 }
