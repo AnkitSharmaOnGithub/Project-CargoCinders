@@ -7,6 +7,9 @@
 - Subtraction
 - Multiplication
 - Division
+- Ceil
+- Roof
+- Floor
 
 
 
