@@ -17,6 +17,8 @@
 - CamelCase
 - UpperCase
 - LowerCase
+- UpperFirst -> Converts the first character of `string` to upper case.
+- trim(string, chars) -> Removes leading and trailing whitespace or specified characters from `string`.
 
 
 
