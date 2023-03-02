@@ -1,6 +1,11 @@
 // List of features to be implemented.
 
-
+- IsNull
+- IsNotNull
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
 
 
