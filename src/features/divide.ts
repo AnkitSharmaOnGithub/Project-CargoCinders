@@ -6,7 +6,7 @@ export const divide = (n1: number, n2: number): number => {
             if (n2 == 0) {
                 throw new Error(`The divisor cannot be zero`);
             }
-            return n1 - n2;
+            return n1 / n2;
         }
 
         throw new Error(`The operands are having wrong values`);
