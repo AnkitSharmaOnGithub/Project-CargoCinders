@@ -1,4 +1,4 @@
-import { ValidateOperands } from "../internals/validateOperands";
+import { ValidateOperands } from "../../internals/validateOperands";
 
 export const divide = (n1: number, n2: number): number => {
     try {
