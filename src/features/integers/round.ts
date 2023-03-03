@@ -1,0 +1,1 @@
+export const round = (num: number): number => Math.round(num);
