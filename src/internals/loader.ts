@@ -19,8 +19,10 @@ import { camelCase } from "../features/strings/camelCase";
 import { lowerCase } from "../features/strings/lowerCase";
 import { upperCase } from "../features/strings/upperCase";
 import { upperFirst } from "../features/strings/upperFirst";
+import { castToArray } from "../features/arrays/castToArray";
 
 export {
     addition, subtract, multiply, divide, isNull, isNotNull, max, min, ceil, floor, randomNumber, roof, round,
-    camelCase, lowerCase, upperCase, upperFirst
+    camelCase, lowerCase, upperCase, upperFirst,
+    castToArray
 }
