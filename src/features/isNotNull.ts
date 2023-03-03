@@ -1,1 +1,0 @@
-export const isNotNull = (value: any): boolean => value !== (null || undefined);
