@@ -1,0 +1,1 @@
+export const roof = (num: number): number => Math.ceil(num);
