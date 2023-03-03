@@ -1,0 +1,1 @@
+export const findMinInArray = (nums: number[]) => Math.max.apply(this, nums);
