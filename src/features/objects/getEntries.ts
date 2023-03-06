@@ -1,0 +1,1 @@
+export const getEntries = <T extends object>(obj: T): string[][] => Object.entries(obj);
