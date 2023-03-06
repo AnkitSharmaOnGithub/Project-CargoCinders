@@ -1,0 +1,1 @@
+export const deepClone = <T>(el: T[]): T[] => JSON.parse(JSON.stringify(el));
